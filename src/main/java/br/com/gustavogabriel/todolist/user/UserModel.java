@@ -29,6 +29,6 @@ public class UserModel {
 
     /**
      * getters - Busca informação de um atributo privado
-     * setters - Devine o valor de um atributo privado 
+     * setters - Define o valor de um atributo privado 
      */
 }
